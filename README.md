@@ -1,7 +1,7 @@
 # Data Engineer Challenge
 The elements of the challenge are:
 
-##Challenge #1
+## Challenge #1
 
 ### migration.ipynb
 Notebook with the following functionalities:
@@ -15,7 +15,7 @@ Notebook that restores tables from AVRO files
 This script creates the schema of the tables in a SQL Database
 
 
-##Challenge #2
+## Challenge #2
 
 ### data_exploration.ipynb
 Exploration of the data from Challenge #1
